@@ -1,0 +1,10 @@
+{
+  "name": "brand-identity-directions-demo",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Brand identity directions: prebuilt static site in site/.",
+  "scripts": {
+    "build": "echo 'prebuilt: site/ is committed'",
+    "start": "npx --yes serve site"
+  }
+}
